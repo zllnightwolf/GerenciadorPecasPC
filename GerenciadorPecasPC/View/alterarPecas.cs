@@ -35,8 +35,13 @@ namespace GerenciadorPecasPC.View
         private void btnAlterar_Click(object sender, EventArgs e)
         {
             Pecas.Codigo = Convert.ToInt32(textBoxCodigo.Text);
+            Pecas.Peca = textBoxPecas.Text;
+            Pecas.Marca = textBoxMarca.Text;
+            Pecas.Capacidade = textBoxCapacidade.Text;
+
             ManipulaPecas mpecas = new ManipulaPecas();
             mpecas.AlterarPecas();
+
         }
     }
 }

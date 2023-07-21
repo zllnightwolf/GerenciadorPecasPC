@@ -119,7 +119,7 @@
             this.btnAlterar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnAlterar.Location = new System.Drawing.Point(328, 160);
             this.btnAlterar.Name = "btnAlterar";
-            this.btnAlterar.Size = new System.Drawing.Size(182, 66);
+            this.btnAlterar.Size = new System.Drawing.Size(207, 77);
             this.btnAlterar.TabIndex = 8;
             this.btnAlterar.Text = "Alterar  os Dados";
             this.btnAlterar.UseVisualStyleBackColor = true;

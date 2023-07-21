@@ -54,9 +54,9 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(30, 99);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(72, 30);
+            this.label2.Size = new System.Drawing.Size(63, 30);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Peças:";
+            this.label2.Text = "Peça:";
             // 
             // label3
             // 
@@ -64,9 +64,9 @@
             this.label3.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(30, 151);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(88, 30);
+            this.label3.Size = new System.Drawing.Size(79, 30);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Marcas:";
+            this.label3.Text = "Marca:";
             // 
             // label4
             // 
